@@ -1,0 +1,11 @@
+c:\users\code\documents\visual studio 2017\Projects\Shape Maker\Shape Maker\bin\Debug\Shape Maker.exe.config
+c:\users\code\documents\visual studio 2017\Projects\Shape Maker\Shape Maker\bin\Debug\Shape Maker.exe
+c:\users\code\documents\visual studio 2017\Projects\Shape Maker\Shape Maker\bin\Debug\Shape Maker.pdb
+c:\users\code\documents\visual studio 2017\Projects\Shape Maker\Shape Maker\obj\Debug\Shape Maker.csprojResolveAssemblyReference.cache
+c:\users\code\documents\visual studio 2017\Projects\Shape Maker\Shape Maker\obj\Debug\Shape_Maker.mainForm.resources
+c:\users\code\documents\visual studio 2017\Projects\Shape Maker\Shape Maker\obj\Debug\Shape_Maker.Properties.Resources.resources
+c:\users\code\documents\visual studio 2017\Projects\Shape Maker\Shape Maker\obj\Debug\Shape Maker.csproj.GenerateResource.Cache
+c:\users\code\documents\visual studio 2017\Projects\Shape Maker\Shape Maker\obj\Debug\Shape Maker.exe
+c:\users\code\documents\visual studio 2017\Projects\Shape Maker\Shape Maker\obj\Debug\Shape Maker.pdb
+c:\users\code\documents\visual studio 2017\Projects\Shape Maker\Shape Maker\obj\Debug\Shape_Maker.circleForm.resources
+c:\users\code\documents\visual studio 2017\Projects\Shape Maker\Shape Maker\obj\Debug\Shape_Maker.squareForm.resources

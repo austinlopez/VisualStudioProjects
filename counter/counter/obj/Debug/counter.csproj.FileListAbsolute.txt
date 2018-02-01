@@ -1,0 +1,9 @@
+c:\users\code\documents\visual studio 2017\Projects\counter\counter\bin\Debug\counter.exe.config
+c:\users\code\documents\visual studio 2017\Projects\counter\counter\bin\Debug\counter.exe
+c:\users\code\documents\visual studio 2017\Projects\counter\counter\bin\Debug\counter.pdb
+c:\users\code\documents\visual studio 2017\Projects\counter\counter\obj\Debug\counter.csprojResolveAssemblyReference.cache
+c:\users\code\documents\visual studio 2017\Projects\counter\counter\obj\Debug\counter.Form1.resources
+c:\users\code\documents\visual studio 2017\Projects\counter\counter\obj\Debug\counter.Properties.Resources.resources
+c:\users\code\documents\visual studio 2017\Projects\counter\counter\obj\Debug\counter.csproj.GenerateResource.Cache
+c:\users\code\documents\visual studio 2017\Projects\counter\counter\obj\Debug\counter.exe
+c:\users\code\documents\visual studio 2017\Projects\counter\counter\obj\Debug\counter.pdb

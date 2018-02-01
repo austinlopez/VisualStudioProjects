@@ -1,0 +1,9 @@
+c:\users\code\documents\visual studio 2017\Projects\GDIgeystuff\GDIgeystuff\bin\Debug\GDIgeystuff.exe.config
+c:\users\code\documents\visual studio 2017\Projects\GDIgeystuff\GDIgeystuff\bin\Debug\GDIgeystuff.exe
+c:\users\code\documents\visual studio 2017\Projects\GDIgeystuff\GDIgeystuff\bin\Debug\GDIgeystuff.pdb
+c:\users\code\documents\visual studio 2017\Projects\GDIgeystuff\GDIgeystuff\obj\Debug\GDIgeystuff.csprojResolveAssemblyReference.cache
+c:\users\code\documents\visual studio 2017\Projects\GDIgeystuff\GDIgeystuff\obj\Debug\GDIgeystuff.Form1.resources
+c:\users\code\documents\visual studio 2017\Projects\GDIgeystuff\GDIgeystuff\obj\Debug\GDIgeystuff.Properties.Resources.resources
+c:\users\code\documents\visual studio 2017\Projects\GDIgeystuff\GDIgeystuff\obj\Debug\GDIgeystuff.csproj.GenerateResource.Cache
+c:\users\code\documents\visual studio 2017\Projects\GDIgeystuff\GDIgeystuff\obj\Debug\GDIgeystuff.exe
+c:\users\code\documents\visual studio 2017\Projects\GDIgeystuff\GDIgeystuff\obj\Debug\GDIgeystuff.pdb

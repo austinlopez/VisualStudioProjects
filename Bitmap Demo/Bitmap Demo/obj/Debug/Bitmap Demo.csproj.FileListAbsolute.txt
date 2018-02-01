@@ -1,0 +1,8 @@
+c:\users\code\documents\visual studio 2017\Projects\Bitmap Demo\Bitmap Demo\bin\Debug\Bitmap Demo.exe.config
+c:\users\code\documents\visual studio 2017\Projects\Bitmap Demo\Bitmap Demo\bin\Debug\Bitmap Demo.exe
+c:\users\code\documents\visual studio 2017\Projects\Bitmap Demo\Bitmap Demo\bin\Debug\Bitmap Demo.pdb
+c:\users\code\documents\visual studio 2017\Projects\Bitmap Demo\Bitmap Demo\obj\Debug\Bitmap_Demo.Form1.resources
+c:\users\code\documents\visual studio 2017\Projects\Bitmap Demo\Bitmap Demo\obj\Debug\Bitmap_Demo.Properties.Resources.resources
+c:\users\code\documents\visual studio 2017\Projects\Bitmap Demo\Bitmap Demo\obj\Debug\Bitmap Demo.csproj.GenerateResource.Cache
+c:\users\code\documents\visual studio 2017\Projects\Bitmap Demo\Bitmap Demo\obj\Debug\Bitmap Demo.exe
+c:\users\code\documents\visual studio 2017\Projects\Bitmap Demo\Bitmap Demo\obj\Debug\Bitmap Demo.pdb

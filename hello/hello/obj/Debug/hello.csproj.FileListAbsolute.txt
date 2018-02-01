@@ -1,0 +1,9 @@
+c:\users\code\documents\visual studio 2017\Projects\hello\hello\bin\Debug\hello.exe.config
+c:\users\code\documents\visual studio 2017\Projects\hello\hello\bin\Debug\hello.exe
+c:\users\code\documents\visual studio 2017\Projects\hello\hello\bin\Debug\hello.pdb
+c:\users\code\documents\visual studio 2017\Projects\hello\hello\obj\Debug\hello.csprojResolveAssemblyReference.cache
+c:\users\code\documents\visual studio 2017\Projects\hello\hello\obj\Debug\hello.Properties.Resources.resources
+c:\users\code\documents\visual studio 2017\Projects\hello\hello\obj\Debug\hello.csproj.GenerateResource.Cache
+c:\users\code\documents\visual studio 2017\Projects\hello\hello\obj\Debug\hello.exe
+c:\users\code\documents\visual studio 2017\Projects\hello\hello\obj\Debug\hello.pdb
+c:\users\code\documents\visual studio 2017\Projects\hello\hello\obj\Debug\hello.Form1.resources
